@@ -362,12 +362,14 @@ nav .fa-solid{
     }
     #head_btn{
         font-size: 14px;
+        margin-left: 16px;
        
         
     }
     nav .fa-solid{
         display: block;
         font-size: 25px;
+        margin: 20px;
 
     }
     nav ul{
