@@ -80,6 +80,26 @@ nav ul li a:hover::after{
 .header-text h1 span{
     color: #ff004f;
 }
+/* ............Date & Time.....  */
+.datetime{
+    margin-top: -120px;
+    margin-bottom: 60px;
+    padding: 40px 0; 
+    background: #ff004f;
+    text-align: center;
+}
+.time{
+    font-size: 54px;
+    font-weight: bold;
+    color: black;
+}
+.date{
+    font-size: 28px;
+    font-weight: 600;
+    color: #fff;
+    margin-top: 20px;
+}
+
 /* .............about............ */
 #about{
     padding: 80px 10%;
@@ -415,7 +435,17 @@ nav .fa-solid{
     .copyright{
         font-size: 12px;
     }
+        .datetime{
+        margin-top: -215px;
+    }
+    .time{
+        font-size: 28px;
+    }
+    .date{
+        font-size: 16px;
+    }
 }
+
 
 #msg{
     color: #61b752;
