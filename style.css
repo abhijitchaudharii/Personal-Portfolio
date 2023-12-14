@@ -292,9 +292,15 @@ nav ul li a:hover::after{
     text-decoration: none;
     color: #fff;
     transition: background 0.5s;
+    box-shadow: 0 1px #ff004f;
+
 }
 .btn:hover{
     background: #ff004f;
+}
+.btn:active{
+    box-shadow: 0 5px #ff004f;
+    transform: translateY(4px);
 }
 /* ...............Contact....... */
 
